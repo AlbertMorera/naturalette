@@ -6,3 +6,12 @@ nature_pal <- function(palette = "Yellowstone", reverse = FALSE, ...) {
   
   colorRampPalette(pal, ...)
 }
+
+
+install.packages("")
+
+
+install.packages("devtools")
+
+
+devtools::install_github("AlbertMorera/naturalette")
