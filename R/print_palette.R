@@ -1,3 +1,4 @@
+#' @export
 
 print_palette <- function(x, ...) {
   
@@ -9,7 +10,6 @@ print_palette <- function(x, ...) {
   
   image(1:n, 1, as.matrix(1:n), col = pal[[1]],
         ylab = "", xaxt = "n", yaxt = "n", bty = "n")
-  
   rect(0, 0.92, n + 1, 1.08, col = rgb(1, 1, 1, 0.8), border = NA)
   text((n + 1) / 2, 1, labels = pal[[2]], cex = 2.5, family = "serif")
 }
