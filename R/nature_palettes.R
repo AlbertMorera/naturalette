@@ -7,4 +7,5 @@ nature_palettes <- list(
   Antartica = list(palette = c("#48A9CF", "#99A6BF", "#D0DCF2", "#D9CE9A", "#A6681C", "#0D0D0D"), name = "Antartica"),
   Antartica2 = list(palette = c("#8488A3", "#A4ACC3", "#DDD6AA", "#D0A932", "#953735"), name = "Antartica"),
   Amazonia = list(palette = c("#E03D2A", "#F97243", "#D9AD10", "#6D9B41", "#06246C", "#30C3E4", "#3B524A", "#92600B", "#201F1B"), name = "Amazon Rainforest"),
-  Iceland = list(palette = c("#142E5F", "#3A5799", "#008DA3", "#98DEC6", "#46BE90", "#CDAED7", "#8771A2"), name = "Iceland"))
+  Iceland = list(palette = c("#142E5F", "#3A5799", "#008DA3", "#98DEC6", "#46BE90", "#CDAED7", "#8771A2"), name = "Iceland"),
+  Maple = list(palette = c("#930102", "#CA2104", "#E9680A", "#FFA008", "#FDE000", "#76A500", "#3E7F00"), name = "Maple tree"))
