@@ -10,7 +10,7 @@ Palettes inspired by National Parks
 ## Install Package
 Currently, the package is only able to be downloaded through github
 
-```{r, message=FALSE}
+```{r}
 install.packages("devtools") 
 devtools::install_github("AlbertMorera/naturalette") 
 ```
@@ -19,3 +19,5 @@ devtools::install_github("AlbertMorera/naturalette")
 ```{r}
 naturalette::print_palette("Yellowstone")
 ```
+
+(https://github.com/BlakeRMills/MetBrewer/blob/main/Works%20and%20Palettes/Examples/Example%204.png)
