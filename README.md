@@ -11,11 +11,11 @@ Palettes inspired by National Parks
 Currently, the package is only able to be downloaded through github
 
 ```{r, message=FALSE}
-install.packages("naturalette") 
+install.packages("devtools") 
 devtools::install_github("AlbertMorera/naturalette") 
 ```
 
 ## Functions
 ```{r}
-print_palette(x="Yellowstone")
+print_palette("Yellowstone")
 ```
