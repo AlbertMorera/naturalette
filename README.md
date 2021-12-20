@@ -9,12 +9,13 @@ Palettes inspired by National Parks
 
 ## Install Package
 Currently, the package is only able to be downloaded through github
-```r
+
+```{r, message=FALSE}
 install.packages("naturalette") 
 devtools::install_github("AlbertMorera/naturalette") 
 ```
 
 ## Functions
-```r
+```{r}
 print_palette(x="Yellowstone")
 ```
