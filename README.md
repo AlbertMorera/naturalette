@@ -20,4 +20,4 @@ devtools::install_github("AlbertMorera/naturalette")
 naturalette::print_palette("Yellowstone")
 ```
 
-(https://github.com/BlakeRMills/MetBrewer/blob/main/Works%20and%20Palettes/Examples/Example%204.png)
+![Ex1](https://github.com/AlbertMorera/naturalette/blob/main/palettes/examples/flowers.png)
