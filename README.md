@@ -17,27 +17,27 @@ devtools::install_github("AlbertMorera/naturalette")
 
 ## Palettes
 ```{r}
-naturalette::print_palette("Yellowstone")
+print_palette("Yellowstone")
 ```
 ![ExPalette](https://github.com/AlbertMorera/naturalette/blob/main/palettes/examples_palettes/Yellowstone.png)
 
 ```{r}
-naturalette::print_palette("Banff")
+print_palette("Banff")
 ```
 ![ExPalette](https://github.com/AlbertMorera/naturalette/blob/main/palettes/examples_palettes/Banff.png)
 
 ```{r}
-naturalette::print_palette("Flowers")
+print_palette("Flowers")
 ```
 ![ExPalette](https://github.com/AlbertMorera/naturalette/blob/main/palettes/examples_palettes/Flowers.png)
 
 ```{r}
-naturalette::print_palette("Sequoia")
+print_palette("Sequoia")
 ```
 ![ExPalette](https://github.com/AlbertMorera/naturalette/blob/main/palettes/examples_palettes/Sequoia.png)
 
 ```{r}
-naturalette::print_palette("Iceland")
+print_palette("Iceland")
 ```
 ![ExPalette](https://github.com/AlbertMorera/naturalette/blob/main/palettes/examples_palettes/Iceland.png)
 
