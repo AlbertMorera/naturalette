@@ -17,5 +17,5 @@ devtools::install_github("AlbertMorera/naturalette")
 
 ## Functions
 ```{r}
-print_palette("Yellowstone")
+naturalette::print_palette("Yellowstone")
 ```
