@@ -78,7 +78,7 @@ ggplot(data=iris, aes(x=Species, y=Sepal.Width, color=Sepal.Width)) +
   geom_point(size=3) +
   scale_color_nature(palette = "Flowers", discrete=F)
 ```
-![Exggplot2](palettes/examples_functions/ggplot2_ex_1.png)
+![Exggplot2](palettes/example_functions/ggplot2_ex_1.png)
 
 ### Discrete scales
 ```{r}
@@ -86,14 +86,14 @@ ggplot(data=iris, aes(x=Sepal.Length, y=Sepal.Width, color=Species)) +
   geom_point(size=2) +
   scale_color_nature(palette = "Yellowstone")
 ```
-![Exggplot2](palettes/examples_functions/ggplot2_ex_2.png)
+![Exggplot2](palettes/example_functions/ggplot2_ex_2.png)
 
 ```{r}
 ggplot(data=iris, aes(x=Species, y=Petal.Length, fill=Species)) +
   geom_violin() +
   scale_fill_nature(palette = "Antartica2")
 ```
-![Exggplot2](palettes/examples_function/ggplot2_ex_3.png)
+![Exggplot2](palettes/example_function/ggplot2_ex_3.png)
 
 
 ## Contrinute
