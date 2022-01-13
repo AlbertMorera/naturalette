@@ -1,9 +1,8 @@
 # naturalette
-`naturalette` package offers a variety of color palettes based on the colors of some of the World's most iconic natural spaces and parks.
-
-This package offers a set of functions available to use in `ggplot2`:
+`naturalette` package offers a variety of color palettes based on the colors of some of the world's most iconic natural spaces and parks. This package offers a set of functions available as `ggplot2` scales:
 
 -`scale_color_nature()`
+
 -`scale_fill_nature()`
 
 
@@ -26,6 +25,9 @@ devtools::install_github("AlbertMorera/naturalette")
 ```
 
 ## Palettes
+
+### Yellowstone
+This palette is inspired by the colors of the hot spring of the Yellostone National Park (such as [Grand Prismatic Spring](https://en.wikipedia.org/wiki/Grand_Prismatic_Spring). 
 ```{r}
 print_palette("Yellowstone")
 ```
