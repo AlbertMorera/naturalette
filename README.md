@@ -15,7 +15,7 @@
 [Installation](#install-package)  
 [Palettes](#palettes)  
 [Functions](#functions)
-[Contribute](#contribution)
+[Contribute](#contribute)
 
 ## Install Package
 Currently, the package is only able to be downloaded through github
