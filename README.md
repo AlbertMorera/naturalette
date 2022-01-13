@@ -19,9 +19,7 @@ devtools::install_github("AlbertMorera/naturalette")
 ```{r}
 print_palette("Yellowstone")
 ```
-<center>
-![ExPalette](https://github.com/AlbertMorera/naturalette/blob/main/palettes/examples_palettes/Yellowstone.png)
-</center>
+![ExPalette](palettes/examples_palettes/Yellowstone.png)
 
 ```{r}
 print_palette("Banff")
