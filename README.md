@@ -14,7 +14,8 @@
 ***
 [Installation](#install-package)  
 [Palettes](#palettes)  
-[Functions](#functions) 
+[Functions](#functions)
+[Contribute](#contribution)
 
 ## Install Package
 Currently, the package is only able to be downloaded through github
@@ -82,7 +83,7 @@ ggplot(data=iris, aes(x=Species, y=Petal.Length, fill=Species)) +
 
 ## Contrinute
 
-If you want to contribute to the design of new color palettes based on natural areas and natural parks, you can suggest a new color combination via a pull request
+If you want to contribute to the design of new color palettes based on natural areas and natural parks, you can suggest a new color combination via a pull request:
 
 1. Fork the repository into your GitHub account.
 2. Clone the forked repository to local machine, make the changes.
