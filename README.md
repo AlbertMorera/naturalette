@@ -60,6 +60,13 @@ print_palette("Iceland")
 ```
 ![ExPalette](palettes/examples_palettes/Iceland.png)
 
+### Maple
+Color palette inspired by the different colors of the maple tree leaf throughout the year.
+```{r}
+print_palette("Maple")
+```
+![ExPalette](palettes/examples_palettes/Maple.png)
+
 
 
 
