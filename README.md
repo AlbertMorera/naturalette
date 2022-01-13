@@ -93,7 +93,7 @@ ggplot(data=iris, aes(x=Species, y=Petal.Length, fill=Species)) +
   geom_violin() +
   scale_fill_nature(palette = "Antartica2")
 ```
-![Exggplot2](palettes/example_function/ggplot2_ex_3.png)
+![Exggplot2](palettes/example_functions/ggplot2_ex_3.png)
 
 
 ## Contrinute
