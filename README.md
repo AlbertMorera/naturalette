@@ -13,8 +13,8 @@
 ***
 [Installation](#install-package)  
 [Palettes](#palettes)  
-[Functions](#functions) 
-[Contribute](#contrinute) 
+[Functions](#functions)  
+[Contribute](#contribute) 
 
 ## Install Package
 Currently, the package is only able to be downloaded through github
