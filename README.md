@@ -1,5 +1,7 @@
 # naturalette
-Palettes inspired by National Parks
+The naturalette package offers color palettes based on the colors of some of the world's most iconic natural spaces and parks.
+
+[naturalette] offers a set of functions available for use in ggplot2
 
 
 ***
@@ -24,22 +26,22 @@ print_palette("Yellowstone")
 ```{r}
 print_palette("Banff")
 ```
-![ExPalette](https://github.com/AlbertMorera/naturalette/blob/main/palettes/examples_palettes/Banff.png)
+![ExPalette](palettes/examples_palettes/Banff.png)
 
 ```{r}
 print_palette("Flowers")
 ```
-![ExPalette](https://github.com/AlbertMorera/naturalette/blob/main/palettes/examples_palettes/Flowers.png)
+![ExPalette](palettes/examples_palettes/Flowers.png)
 
 ```{r}
 print_palette("Sequoia")
 ```
-![ExPalette](https://github.com/AlbertMorera/naturalette/blob/main/palettes/examples_palettes/Sequoia.png)
+![ExPalette](palettes/examples_palettes/Sequoia.png)
 
 ```{r}
 print_palette("Iceland")
 ```
-![ExPalette](https://github.com/AlbertMorera/naturalette/blob/main/palettes/examples_palettes/Iceland.png)
+![ExPalette](palettes/examples_palettes/Iceland.png)
 
 
 
