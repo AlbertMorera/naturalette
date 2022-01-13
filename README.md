@@ -14,6 +14,7 @@
 [Installation](#install-package)  
 [Palettes](#palettes)  
 [Functions](#functions) 
+[Contribute](#contrinute) 
 
 ## Install Package
 Currently, the package is only able to be downloaded through github
@@ -96,7 +97,7 @@ ggplot(data=iris, aes(x=Species, y=Petal.Length, fill=Species)) +
 ![Exggplot2](palettes/example_functions/ggplot2_ex_3.png)
 
 
-## Contrinute
+## Contribute
 
 If you want to contribute to the design of new color palettes based on natural areas and natural parks, you can suggest a new color combination via a pull request:
 
