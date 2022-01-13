@@ -78,3 +78,13 @@ ggplot(data=iris, aes(x=Species, y=Petal.Length, fill=Species)) +
   scale_fill_nature(palette = "Antartica2")
 ```
 ![Exggplot2](palettes/examples_ggplot2/ggplot2_ex_3.png)
+
+
+## Contrinute
+
+If you want to contribute to the design of new color palettes based on natural areas and natural parks, you can suggest a new color combination via a pull request
+
+1. Fork the repository into your GitHub account.
+2. Clone the forked repository to local machine, make the changes.
+3. Commit and push the changes to GitHub. Create a pull request.
+
