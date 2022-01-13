@@ -1,7 +1,7 @@
 # naturalette
 The naturalette package offers color palettes based on the colors of some of the world's most iconic natural spaces and parks.
 
-[naturalette] offers a set of functions available for use in ggplot2
+"naturalette" offers a set of functions available for use in ggplot2
 
 
 ***
