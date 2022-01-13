@@ -14,7 +14,7 @@
 ***
 [Installation](#install-package)  
 [Palettes](#palettes)  
-[Functions](#functions)
+[Functions](#functions)  
 [Contribute](#contribute)
 
 ## Install Package
