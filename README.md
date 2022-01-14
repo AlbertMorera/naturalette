@@ -6,7 +6,7 @@
 -`scale_fill_nature()`
 
 
-> La bellesa es la responsable de la veritat; i com que l'art és bellesa, sense veritat no hi ha art.
+> La bellesa és la responsable de la veritat; i com que l'art és bellesa, sense veritat no hi ha art.
 >
 > --- Antoni Gaudí
 
@@ -85,14 +85,14 @@ ggplot(data=iris, aes(x=Species, y=Sepal.Width, color=Sepal.Width)) +
 ```{r}
 ggplot(data=iris, aes(x=Sepal.Length, y=Sepal.Width, color=Species)) +
   geom_point(size=2) +
-  scale_color_nature(palette = "Yellowstone")
+  scale_color_nature(palette = "Maple")
 ```
 ![Exggplot2](palettes/example_functions/ggplot2_ex_2.png)
 
 ```{r}
 ggplot(data=iris, aes(x=Species, y=Petal.Length, fill=Species)) +
   geom_violin() +
-  scale_fill_nature(palette = "Antartica2")
+  scale_fill_nature(palette = "Yellowstone")
 ```
 ![Exggplot2](palettes/example_functions/ggplot2_ex_3.png)
 
