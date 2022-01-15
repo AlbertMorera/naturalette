@@ -70,6 +70,10 @@ print_palette("Maple")
 ![ExPalette](palettes/examples_palettes/Maple.png)
 
 ### Other palettes
+
+The names of all available palettes can be found using the `nature_palettes` command.
+
+
 ![ExPalette](palettes/examples_palettes/palettes.png)
 
 
