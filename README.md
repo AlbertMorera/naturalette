@@ -1,4 +1,5 @@
-# naturalette
+# naturalette <img src="naturalette_hex.png" align="right" width="250" />
+
 `naturalette` package offers a variety of color palettes based on the colors of some of the world's most iconic natural spaces and parks. This package offers a set of functions available as `ggplot2` scales:
 
 -`scale_color_nature()`
