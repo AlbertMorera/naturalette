@@ -69,6 +69,9 @@ print_palette("Maple")
 ```
 ![ExPalette](palettes/examples_palettes/Maple.png)
 
+### Other palettes
+![ExPalette](palettes/examples_palettes/palettes.png)
+
 
 
 
